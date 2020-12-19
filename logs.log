@@ -1,0 +1,776 @@
+2020-11-10 16:12:59,467:INFO:Initializing load_model()
+2020-11-10 16:12:59,467:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:12:59,518:INFO:Initializing load_model()
+2020-11-10 16:12:59,519:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-10 16:13:13,114:INFO:Initializing load_model()
+2020-11-10 16:13:13,115:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:13:13,149:INFO:Initializing load_model()
+2020-11-10 16:13:13,149:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-10 16:13:16,636:INFO:Initializing load_model()
+2020-11-10 16:13:16,637:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:13:16,683:INFO:Initializing load_model()
+2020-11-10 16:13:16,684:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-10 16:13:19,714:INFO:Initializing load_model()
+2020-11-10 16:13:19,715:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:13:19,758:INFO:Initializing load_model()
+2020-11-10 16:13:19,759:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-10 16:13:23,360:INFO:Initializing load_model()
+2020-11-10 16:13:23,361:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:13:23,401:INFO:Initializing load_model()
+2020-11-10 16:13:23,401:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-10 16:14:19,392:INFO:Initializing load_model()
+2020-11-10 16:14:19,393:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:14:19,433:INFO:Initializing load_model()
+2020-11-10 16:14:19,434:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-10 16:14:45,630:INFO:Initializing load_model()
+2020-11-10 16:14:45,631:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:14:45,668:INFO:Initializing load_model()
+2020-11-10 16:14:45,669:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-10 16:15:48,175:INFO:Initializing load_model()
+2020-11-10 16:15:48,176:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:15:48,211:INFO:Initializing load_model()
+2020-11-10 16:15:48,212:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-10 16:16:02,559:INFO:Initializing load_model()
+2020-11-10 16:16:02,559:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:16:02,605:INFO:Initializing load_model()
+2020-11-10 16:16:02,605:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-10 16:16:38,272:INFO:Initializing load_model()
+2020-11-10 16:16:38,273:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:16:38,308:INFO:Initializing load_model()
+2020-11-10 16:16:38,309:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-10 16:16:51,009:INFO:Initializing load_model()
+2020-11-10 16:16:51,010:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:16:51,046:INFO:Initializing load_model()
+2020-11-10 16:16:51,046:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-10 16:16:59,042:INFO:Initializing load_model()
+2020-11-10 16:16:59,043:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:16:59,082:INFO:Initializing load_model()
+2020-11-10 16:16:59,082:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-10 16:17:14,079:INFO:Initializing load_model()
+2020-11-10 16:17:14,079:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:17:14,123:INFO:Initializing load_model()
+2020-11-10 16:17:14,123:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-10 16:17:23,167:INFO:Initializing load_model()
+2020-11-10 16:17:23,168:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-10 16:17:23,205:INFO:Initializing load_model()
+2020-11-10 16:17:23,206:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 19:50:42,227:INFO:Initializing load_model()
+2020-11-23 19:50:42,240:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 19:50:42,290:INFO:Initializing load_model()
+2020-11-23 19:50:42,291:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 19:50:42,397:INFO:Initializing load_model()
+2020-11-23 19:50:42,397:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 19:50:42,433:INFO:Initializing load_model()
+2020-11-23 19:50:42,434:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 19:50:57,898:INFO:Initializing load_model()
+2020-11-23 19:50:57,899:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 19:50:57,930:INFO:Initializing load_model()
+2020-11-23 19:50:57,930:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 20:03:07,536:INFO:Initializing load_model()
+2020-11-23 20:03:07,559:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 20:03:07,620:INFO:Initializing load_model()
+2020-11-23 20:03:07,622:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 20:05:12,544:INFO:Initializing load_model()
+2020-11-23 20:05:12,545:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 20:05:12,592:INFO:Initializing load_model()
+2020-11-23 20:05:12,593:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 20:05:15,134:INFO:Initializing load_model()
+2020-11-23 20:05:15,135:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 20:05:15,175:INFO:Initializing load_model()
+2020-11-23 20:05:15,176:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 20:05:50,621:INFO:Initializing load_model()
+2020-11-23 20:05:50,622:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 20:05:50,661:INFO:Initializing load_model()
+2020-11-23 20:05:50,661:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 20:05:54,403:INFO:Initializing load_model()
+2020-11-23 20:05:54,403:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 20:05:54,440:INFO:Initializing load_model()
+2020-11-23 20:05:54,441:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 20:06:01,249:INFO:Initializing load_model()
+2020-11-23 20:06:01,249:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 20:06:01,286:INFO:Initializing load_model()
+2020-11-23 20:06:01,287:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 20:06:01,523:INFO:Initializing predict_model()
+2020-11-23 20:06:01,523:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                                                                               max_depth=5,
+                                                                               max_features='log2',
+                                                                               min_impurity_decrease=0.5,
+                                                                               min_samples_leaf=5,
+                                                                               min_samples_split=4,
+                                                                               n_estimators=30,
+                                                                               random_state=1,
+                                                                               subsample=0.55)),
+                                                    ('huber',
+                                                     HuberRegressor(alpha=0.0005,
+                                                                    epsilon=1.5,
+                                                                    fit_intercept=False)),
+                                                    ('par',
+                                                     PassiveAggressiveRegressor(C=0.297,
+                                                                                epsilon=0.8,
+                                                                                random_state=1))],
+                                        n_jobs=-1, weight_0=1, weight_1=1,
+                                        weight_2=1, weights=[1, 1, 1])]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-23 20:06:01,528:INFO:Checking exceptions
+2020-11-23 20:06:01,530:INFO:Preloading libraries
+2020-11-23 20:06:05,936:INFO:Initializing load_model()
+2020-11-23 20:06:05,937:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 20:06:05,979:INFO:Initializing load_model()
+2020-11-23 20:06:05,979:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 20:06:08,454:INFO:Initializing load_model()
+2020-11-23 20:06:08,455:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 20:06:08,495:INFO:Initializing load_model()
+2020-11-23 20:06:08,495:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 20:06:08,562:INFO:Initializing predict_model()
+2020-11-23 20:06:08,563:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='smoker')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    targ...
+                 Outlier(contamination=0.05, methods=['pca'], random_state=1,
+                         target='smoker')),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='smoker')),
+                ('fix_perfect', Remove_100(target='smoker')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x00000182388CE970>]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-23 20:06:08,569:INFO:Checking exceptions
+2020-11-23 20:06:08,572:INFO:Preloading libraries
+2020-11-23 20:06:12,639:INFO:Initializing load_model()
+2020-11-23 20:06:12,640:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 20:06:12,676:INFO:Initializing load_model()
+2020-11-23 20:06:12,677:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 20:06:17,479:INFO:Initializing load_model()
+2020-11-23 20:06:17,480:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 20:06:17,518:INFO:Initializing load_model()
+2020-11-23 20:06:17,519:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 20:06:24,441:INFO:Initializing load_model()
+2020-11-23 20:06:24,442:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 20:06:24,481:INFO:Initializing load_model()
+2020-11-23 20:06:24,483:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:34:11,506:INFO:Initializing load_model()
+2020-11-23 21:34:11,507:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:34:11,570:INFO:Initializing load_model()
+2020-11-23 21:34:11,571:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:11,795:INFO:Initializing load_model()
+2020-11-23 21:35:11,796:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:11,839:INFO:Initializing load_model()
+2020-11-23 21:35:11,842:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:26,428:INFO:Initializing load_model()
+2020-11-23 21:35:26,429:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:26,473:INFO:Initializing load_model()
+2020-11-23 21:35:26,474:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:27,493:INFO:Initializing load_model()
+2020-11-23 21:35:27,496:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:27,567:INFO:Initializing load_model()
+2020-11-23 21:35:27,568:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:27,659:INFO:Initializing load_model()
+2020-11-23 21:35:27,660:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:27,711:INFO:Initializing load_model()
+2020-11-23 21:35:27,712:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:29,648:INFO:Initializing load_model()
+2020-11-23 21:35:29,649:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:29,707:INFO:Initializing load_model()
+2020-11-23 21:35:29,710:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:31,571:INFO:Initializing load_model()
+2020-11-23 21:35:31,572:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:31,623:INFO:Initializing load_model()
+2020-11-23 21:35:31,624:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:37,066:INFO:Initializing load_model()
+2020-11-23 21:35:37,067:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:37,122:INFO:Initializing load_model()
+2020-11-23 21:35:37,123:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:43,077:INFO:Initializing load_model()
+2020-11-23 21:35:43,079:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:43,137:INFO:Initializing load_model()
+2020-11-23 21:35:43,137:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:46,147:INFO:Initializing load_model()
+2020-11-23 21:35:46,149:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:46,211:INFO:Initializing load_model()
+2020-11-23 21:35:46,211:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:47,578:INFO:Initializing load_model()
+2020-11-23 21:35:47,579:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:47,633:INFO:Initializing load_model()
+2020-11-23 21:35:47,633:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:52,885:INFO:Initializing load_model()
+2020-11-23 21:35:52,885:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:52,936:INFO:Initializing load_model()
+2020-11-23 21:35:52,937:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:35:53,213:INFO:Initializing predict_model()
+2020-11-23 21:35:53,214:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                                                                               max_depth=5,
+                                                                               max_features='log2',
+                                                                               min_impurity_decrease=0.5,
+                                                                               min_samples_leaf=5,
+                                                                               min_samples_split=4,
+                                                                               n_estimators=30,
+                                                                               random_state=1,
+                                                                               subsample=0.55)),
+                                                    ('huber',
+                                                     HuberRegressor(alpha=0.0005,
+                                                                    epsilon=1.5,
+                                                                    fit_intercept=False)),
+                                                    ('par',
+                                                     PassiveAggressiveRegressor(C=0.297,
+                                                                                epsilon=0.8,
+                                                                                random_state=1))],
+                                        n_jobs=-1, weight_0=1, weight_1=1,
+                                        weight_2=1, weights=[1, 1, 1])]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-23 21:35:53,217:INFO:Checking exceptions
+2020-11-23 21:35:53,218:INFO:Preloading libraries
+2020-11-23 21:36:19,788:INFO:Initializing load_model()
+2020-11-23 21:36:19,789:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:36:19,834:INFO:Initializing load_model()
+2020-11-23 21:36:19,834:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:36:25,637:INFO:Initializing load_model()
+2020-11-23 21:36:25,637:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:36:25,689:INFO:Initializing load_model()
+2020-11-23 21:36:25,689:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:36:25,965:INFO:Initializing predict_model()
+2020-11-23 21:36:25,965:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                                                                               max_depth=5,
+                                                                               max_features='log2',
+                                                                               min_impurity_decrease=0.5,
+                                                                               min_samples_leaf=5,
+                                                                               min_samples_split=4,
+                                                                               n_estimators=30,
+                                                                               random_state=1,
+                                                                               subsample=0.55)),
+                                                    ('huber',
+                                                     HuberRegressor(alpha=0.0005,
+                                                                    epsilon=1.5,
+                                                                    fit_intercept=False)),
+                                                    ('par',
+                                                     PassiveAggressiveRegressor(C=0.297,
+                                                                                epsilon=0.8,
+                                                                                random_state=1))],
+                                        n_jobs=-1, weight_0=1, weight_1=1,
+                                        weight_2=1, weights=[1, 1, 1])]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-23 21:36:25,969:INFO:Checking exceptions
+2020-11-23 21:36:25,971:INFO:Preloading libraries
+2020-11-23 21:36:53,907:INFO:Initializing load_model()
+2020-11-23 21:36:53,907:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:36:53,957:INFO:Initializing load_model()
+2020-11-23 21:36:53,957:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:09,211:INFO:Initializing load_model()
+2020-11-23 21:37:09,212:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:09,282:INFO:Initializing load_model()
+2020-11-23 21:37:09,283:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:09,393:INFO:Initializing predict_model()
+2020-11-23 21:37:09,396:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='smoker')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    targ...
+                 Outlier(contamination=0.05, methods=['pca'], random_state=1,
+                         target='smoker')),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='smoker')),
+                ('fix_perfect', Remove_100(target='smoker')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000022D26E93520>]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-23 21:37:09,400:INFO:Checking exceptions
+2020-11-23 21:37:09,401:INFO:Preloading libraries
+2020-11-23 21:37:28,178:INFO:Initializing load_model()
+2020-11-23 21:37:28,178:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:28,228:INFO:Initializing load_model()
+2020-11-23 21:37:28,228:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:30,247:INFO:Initializing load_model()
+2020-11-23 21:37:30,248:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:30,297:INFO:Initializing load_model()
+2020-11-23 21:37:30,298:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:30,386:INFO:Initializing predict_model()
+2020-11-23 21:37:30,387:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='smoker')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    targ...
+                 Outlier(contamination=0.05, methods=['pca'], random_state=1,
+                         target='smoker')),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='smoker')),
+                ('fix_perfect', Remove_100(target='smoker')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000022D26EA3460>]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-23 21:37:30,390:INFO:Checking exceptions
+2020-11-23 21:37:30,393:INFO:Preloading libraries
+2020-11-23 21:37:36,865:INFO:Initializing load_model()
+2020-11-23 21:37:36,865:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:36,910:INFO:Initializing load_model()
+2020-11-23 21:37:36,911:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:38,851:INFO:Initializing load_model()
+2020-11-23 21:37:38,852:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:38,906:INFO:Initializing load_model()
+2020-11-23 21:37:38,907:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:38,994:INFO:Initializing predict_model()
+2020-11-23 21:37:38,996:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='smoker')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    targ...
+                 Outlier(contamination=0.05, methods=['pca'], random_state=1,
+                         target='smoker')),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='smoker')),
+                ('fix_perfect', Remove_100(target='smoker')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000022D27C61F70>]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-23 21:37:39,003:INFO:Checking exceptions
+2020-11-23 21:37:39,011:INFO:Preloading libraries
+2020-11-23 21:37:45,226:INFO:Initializing load_model()
+2020-11-23 21:37:45,227:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:45,278:INFO:Initializing load_model()
+2020-11-23 21:37:45,279:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:47,440:INFO:Initializing load_model()
+2020-11-23 21:37:47,443:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:47,507:INFO:Initializing load_model()
+2020-11-23 21:37:47,507:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:47,610:INFO:Initializing predict_model()
+2020-11-23 21:37:47,612:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='smoker')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    targ...
+                 Outlier(contamination=0.05, methods=['pca'], random_state=1,
+                         target='smoker')),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='smoker')),
+                ('fix_perfect', Remove_100(target='smoker')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000022D27C61C10>]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-23 21:37:47,616:INFO:Checking exceptions
+2020-11-23 21:37:47,617:INFO:Preloading libraries
+2020-11-23 21:37:52,728:INFO:Initializing load_model()
+2020-11-23 21:37:52,729:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:52,776:INFO:Initializing load_model()
+2020-11-23 21:37:52,776:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:54,764:INFO:Initializing load_model()
+2020-11-23 21:37:54,765:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:54,824:INFO:Initializing load_model()
+2020-11-23 21:37:54,824:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:37:54,926:INFO:Initializing predict_model()
+2020-11-23 21:37:54,928:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='smoker')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    targ...
+                 Outlier(contamination=0.05, methods=['pca'], random_state=1,
+                         target='smoker')),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='smoker')),
+                ('fix_perfect', Remove_100(target='smoker')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000022D27379C70>]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-23 21:37:54,930:INFO:Checking exceptions
+2020-11-23 21:37:54,931:INFO:Preloading libraries
+2020-11-23 21:38:14,714:INFO:Initializing load_model()
+2020-11-23 21:38:14,714:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:38:14,764:INFO:Initializing load_model()
+2020-11-23 21:38:14,764:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:38:16,884:INFO:Initializing load_model()
+2020-11-23 21:38:16,885:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:38:16,935:INFO:Initializing load_model()
+2020-11-23 21:38:16,935:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-23 21:38:17,034:INFO:Initializing predict_model()
+2020-11-23 21:38:17,036:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='smoker')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    targ...
+                 Outlier(contamination=0.05, methods=['pca'], random_state=1,
+                         target='smoker')),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='smoker')),
+                ('fix_perfect', Remove_100(target='smoker')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000022D27379790>]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-23 21:38:17,039:INFO:Checking exceptions
+2020-11-23 21:38:17,041:INFO:Preloading libraries
+2020-11-23 21:38:38,216:INFO:Initializing load_model()
+2020-11-23 21:38:38,217:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-23 21:38:38,259:INFO:Initializing load_model()
+2020-11-23 21:38:38,260:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:29:36,450:INFO:Initializing load_model()
+2020-11-30 21:29:36,466:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:29:36,528:INFO:Initializing load_model()
+2020-11-30 21:29:36,528:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:30:05,506:INFO:Initializing load_model()
+2020-11-30 21:30:05,508:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:30:05,550:INFO:Initializing load_model()
+2020-11-30 21:30:05,551:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:30:55,555:INFO:Initializing load_model()
+2020-11-30 21:30:55,556:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:30:55,602:INFO:Initializing load_model()
+2020-11-30 21:30:55,604:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:30:55,885:INFO:Initializing predict_model()
+2020-11-30 21:30:55,885:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                                                                               max_depth=5,
+                                                                               max_features='log2',
+                                                                               min_impurity_decrease=0.5,
+                                                                               min_samples_leaf=5,
+                                                                               min_samples_split=4,
+                                                                               n_estimators=30,
+                                                                               random_state=1,
+                                                                               subsample=0.55)),
+                                                    ('huber',
+                                                     HuberRegressor(alpha=0.0005,
+                                                                    epsilon=1.5,
+                                                                    fit_intercept=False)),
+                                                    ('par',
+                                                     PassiveAggressiveRegressor(C=0.297,
+                                                                                epsilon=0.8,
+                                                                                random_state=1))],
+                                        n_jobs=-1, weight_0=1, weight_1=1,
+                                        weight_2=1, weights=[1, 1, 1])]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 21:30:55,888:INFO:Checking exceptions
+2020-11-30 21:30:55,888:INFO:Preloading libraries
+2020-11-30 21:31:05,842:INFO:Initializing load_model()
+2020-11-30 21:31:05,843:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:31:05,890:INFO:Initializing load_model()
+2020-11-30 21:31:05,891:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:31:08,331:INFO:Initializing load_model()
+2020-11-30 21:31:08,332:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:31:08,383:INFO:Initializing load_model()
+2020-11-30 21:31:08,384:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:31:08,642:INFO:Initializing predict_model()
+2020-11-30 21:31:08,642:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                                                                               max_depth=5,
+                                                                               max_features='log2',
+                                                                               min_impurity_decrease=0.5,
+                                                                               min_samples_leaf=5,
+                                                                               min_samples_split=4,
+                                                                               n_estimators=30,
+                                                                               random_state=1,
+                                                                               subsample=0.55)),
+                                                    ('huber',
+                                                     HuberRegressor(alpha=0.0005,
+                                                                    epsilon=1.5,
+                                                                    fit_intercept=False)),
+                                                    ('par',
+                                                     PassiveAggressiveRegressor(C=0.297,
+                                                                                epsilon=0.8,
+                                                                                random_state=1))],
+                                        n_jobs=-1, weight_0=1, weight_1=1,
+                                        weight_2=1, weights=[1, 1, 1])]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 21:31:08,645:INFO:Checking exceptions
+2020-11-30 21:31:08,646:INFO:Preloading libraries
+2020-11-30 21:31:28,022:INFO:Initializing load_model()
+2020-11-30 21:31:28,023:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:31:28,092:INFO:Initializing load_model()
+2020-11-30 21:31:28,093:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:31:40,131:INFO:Initializing load_model()
+2020-11-30 21:31:40,132:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:31:40,187:INFO:Initializing load_model()
+2020-11-30 21:31:40,188:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:31:40,297:INFO:Initializing predict_model()
+2020-11-30 21:31:40,300:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='smoker')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    targ...
+                 Outlier(contamination=0.05, methods=['pca'], random_state=1,
+                         target='smoker')),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='smoker')),
+                ('fix_perfect', Remove_100(target='smoker')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x0000020723769AF0>]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 21:31:40,303:INFO:Checking exceptions
+2020-11-30 21:31:40,305:INFO:Preloading libraries
+2020-11-30 21:31:55,534:INFO:Initializing load_model()
+2020-11-30 21:31:55,535:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:31:55,580:INFO:Initializing load_model()
+2020-11-30 21:31:55,580:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:32:52,282:INFO:Initializing load_model()
+2020-11-30 21:32:52,283:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:32:52,327:INFO:Initializing load_model()
+2020-11-30 21:32:52,327:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:32:55,846:INFO:Initializing load_model()
+2020-11-30 21:32:55,846:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:32:55,892:INFO:Initializing load_model()
+2020-11-30 21:32:55,893:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:32:58,708:INFO:Initializing load_model()
+2020-11-30 21:32:58,709:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:32:58,759:INFO:Initializing load_model()
+2020-11-30 21:32:58,760:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:33:01,974:INFO:Initializing load_model()
+2020-11-30 21:33:01,975:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:33:02,023:INFO:Initializing load_model()
+2020-11-30 21:33:02,024:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:35:06,759:INFO:Initializing load_model()
+2020-11-30 21:35:06,760:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:35:06,810:INFO:Initializing load_model()
+2020-11-30 21:35:06,813:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:35:36,493:INFO:Initializing load_model()
+2020-11-30 21:35:36,493:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:35:36,533:INFO:Initializing load_model()
+2020-11-30 21:35:36,534:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:38:32,511:INFO:Initializing load_model()
+2020-11-30 21:38:32,512:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:38:32,557:INFO:Initializing load_model()
+2020-11-30 21:38:32,558:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:38:32,839:INFO:Initializing predict_model()
+2020-11-30 21:38:32,840:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression',
+                                      target='charges')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target=...
+                                                                               max_depth=5,
+                                                                               max_features='log2',
+                                                                               min_impurity_decrease=0.5,
+                                                                               min_samples_leaf=5,
+                                                                               min_samples_split=4,
+                                                                               n_estimators=30,
+                                                                               random_state=1,
+                                                                               subsample=0.55)),
+                                                    ('huber',
+                                                     HuberRegressor(alpha=0.0005,
+                                                                    epsilon=1.5,
+                                                                    fit_intercept=False)),
+                                                    ('par',
+                                                     PassiveAggressiveRegressor(C=0.297,
+                                                                                epsilon=0.8,
+                                                                                random_state=1))],
+                                        n_jobs=-1, weight_0=1, weight_1=1,
+                                        weight_2=1, weights=[1, 1, 1])]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 21:38:32,844:INFO:Checking exceptions
+2020-11-30 21:38:32,845:INFO:Preloading libraries
+2020-11-30 21:39:05,816:INFO:Initializing load_model()
+2020-11-30 21:39:05,817:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:39:05,861:INFO:Initializing load_model()
+2020-11-30 21:39:05,861:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:39:52,188:INFO:Initializing load_model()
+2020-11-30 21:39:52,189:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:39:52,231:INFO:Initializing load_model()
+2020-11-30 21:39:52,232:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:39:52,332:INFO:Initializing predict_model()
+2020-11-30 21:39:52,332:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='smoker')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    targ...
+                 Outlier(contamination=0.05, methods=['pca'], random_state=1,
+                         target='smoker')),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='smoker')),
+                ('fix_perfect', Remove_100(target='smoker')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x000002071D382790>]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 21:39:52,336:INFO:Checking exceptions
+2020-11-30 21:39:52,338:INFO:Preloading libraries
+2020-11-30 21:40:01,590:INFO:Initializing load_model()
+2020-11-30 21:40:01,590:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:40:01,655:INFO:Initializing load_model()
+2020-11-30 21:40:01,656:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:40:01,724:INFO:Initializing load_model()
+2020-11-30 21:40:01,724:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:40:01,768:INFO:Initializing load_model()
+2020-11-30 21:40:01,769:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:40:01,858:INFO:Initializing predict_model()
+2020-11-30 21:40:01,859:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='smoker')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    targ...
+                 Outlier(contamination=0.05, methods=['pca'], random_state=1,
+                         target='smoker')),
+                ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='smoker')),
+                ('fix_perfect', Remove_100(target='smoker')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 <catboost.core.CatBoostClassifier object at 0x00000207236E99D0>]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 21:40:01,861:INFO:Checking exceptions
+2020-11-30 21:40:01,862:INFO:Preloading libraries
+2020-11-30 21:40:50,042:INFO:Initializing load_model()
+2020-11-30 21:40:50,043:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:40:50,087:INFO:Initializing load_model()
+2020-11-30 21:40:50,088:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:40:56,263:INFO:Initializing load_model()
+2020-11-30 21:40:56,264:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:40:56,308:INFO:Initializing load_model()
+2020-11-30 21:40:56,309:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:40:59,078:INFO:Initializing load_model()
+2020-11-30 21:40:59,079:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:40:59,123:INFO:Initializing load_model()
+2020-11-30 21:40:59,124:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
+2020-11-30 21:41:00,785:INFO:Initializing load_model()
+2020-11-30 21:41:00,787:INFO:load_model(model_name=meu-modelo-para-os-custos, platform=None, authentication=None, verbose=True)
+2020-11-30 21:41:00,837:INFO:Initializing load_model()
+2020-11-30 21:41:00,837:INFO:load_model(model_name=meu-modelo-para-smoker, platform=None, authentication=None, verbose=True)
