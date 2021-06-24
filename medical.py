@@ -39,7 +39,7 @@ opcoes = ['Página Inicial',
 pagina = st.sidebar.selectbox('Navegue pelo menu:', opcoes)
 
 st.sidebar.markdown('---')
-st.sidebar.markdown('Web-App Streamlit :star:') 
+st.sidebar.markdown(':star: Web-App Streamlit') 
 
 
 
